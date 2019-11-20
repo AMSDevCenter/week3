@@ -32,8 +32,13 @@ body {
     text-align: center;
 }
 
+
+.dashboardContainer {
+    width: 1200px;
+
 .genericContainer {
     width: 800px;
+
     margin: auto;
 }
 
@@ -73,6 +78,11 @@ a {
     color: green !important;
 }
 
+.formsize{
+    width: 80%;
+    margin-left: 100px;
+
+
 .button_submit {
     background-color: green;
     color: white;
@@ -110,4 +120,5 @@ a {
 
 .topnav .search-container button:hover {
     background: #ccc;
+
 }
